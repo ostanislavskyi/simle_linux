@@ -13,10 +13,12 @@ Simple automake program
 
 ## Usage
 run 
-```simple
+```bash
+simple
 ```
  or run in build dir
- ```./simple
+ ```bash
+ ./simple
  ``` 
 
  ## Clean
